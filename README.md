@@ -2,7 +2,7 @@
 
 This project analyzes Airbnb listing data to uncover pricing trends, revenue patterns, and location-based variations across Seattle. Built in Tableau, the dashboard reveals how bedroom count, zip code, and seasonal demand influence pricing and revenue behavior.
 
-The dashboard is designed to help for Airbnb hosts optimize pricing, Travelers understand market patterns, Investors identify high-value areas, Analysts study occupancy and revenue behaviors
+The dashboard is designed to help Airbnb hosts optimize pricing, travelers understand market patterns, investors identify high-value areas, analysts study occupancy and revenue behaviors.
 
 Live Dashboard: 
 https://public.tableau.com/app/profile/akshay.gunnala1566/viz/AirBnBFullProject_17635801052510/Dashboard1
@@ -42,9 +42,9 @@ The dataset includes:
 Bar chart showing how average price increases with bedroom count.
 
 **Key insights**:
-- Prices rise steadily from 1 to 6 bedrooms
-- 6-bedroom listings average ~$585
-- 1-bedroom listings are most common (~1,800+)
+- Prices rise steadily from 1 to 6 bedrooms.
+- 6-bedroom listings average ~$585.
+- 1-bedroom listings are most common (~1,800+).
 
 ---
 
@@ -52,7 +52,7 @@ Bar chart showing how average price increases with bedroom count.
 Filled map of Seattle showing average prices by zip code.
 
 **Key insights**:
-- Clear regional pricing patterns
+- Clear regional pricing patterns across neighborhoods.
 
 ---
 
@@ -60,8 +60,8 @@ Filled map of Seattle showing average prices by zip code.
 Bar chart comparing average prices across all zip codes.
 
 **Key insights**:
-- Highlights top-performing and underperforming regions
-- Useful for location-based pricing strategy
+- Highlights top-performing and underperforming regions.
+- Useful for location-based pricing strategy.
 
 ---
 
@@ -69,17 +69,17 @@ Bar chart comparing average prices across all zip codes.
 Time-series chart showing weekly revenue trends for 2016.
 
 **Key insights**:
-- Strong growth early in the year
-- Seasonal patterns visible across months
+- Strong growth early in the year.
+- Seasonal patterns visible across months.
 
 ---
 
 ## Insights & Takeaways
 
-- **Bedroom count** drives pricing: larger homes earn higher nightly rates
-- **Zip code** is a key pricing factor: some neighborhoods consistently outperform
-- **Revenue trends** show seasonality and growth patterns
-- **Market density**: 1–2 bedroom listings dominate, indicating high competition
+- **Bedroom count** drives pricing: larger homes earn higher nightly rates.
+- **Zip code** is a key pricing factor: some neighborhoods consistently outperform.
+- **Revenue trends** show seasonality and growth patterns.
+- **Market density**: 1–2 bedroom listings dominate, indicating high competition.
 
 ---
 
