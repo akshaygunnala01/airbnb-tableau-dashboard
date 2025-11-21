@@ -32,8 +32,9 @@ The dataset includes:
 
 ## Dashboard Preview
 
-![Airbnb Dashboard](dashboard.png)
+![Airbnb Dashboard](dashboard.PNG)
 
+--
 
 ## Dashboard Components
 
