@@ -2,7 +2,7 @@
 
 This project analyzes Airbnb listing data to uncover pricing trends, revenue patterns, and location-based variations across Seattle. Built in Tableau, the dashboard reveals how bedroom count, zip code, and seasonal demand influence pricing and revenue behavior.
 
-The dashboard is designed for Airbnb hosts optimize pricing, Travelers understand market patterns, Investors identify high-value areas, Analysts study occupancy and revenue behaviors
+The dashboard is designed to help for Airbnb hosts optimize pricing, Travelers understand market patterns, Investors identify high-value areas, Analysts study occupancy and revenue behaviors
 
 Live Dashboard: 
 https://public.tableau.com/app/profile/akshay.gunnala1566/viz/AirBnBFullProject_17635801052510/Dashboard1
@@ -29,6 +29,11 @@ The dataset includes:
 - Additional fields from the original Airbnb dataset
 
 ---
+
+## Dashboard Preview
+
+![Airbnb Dashboard](dashboard.png)
+
 
 ## Dashboard Components
 
@@ -84,9 +89,12 @@ Time-series chart showing weekly revenue trends for 2016.
 
 ---
 
-##  Why this Project Matters
+## Why This Project Matters
 This Tableau dashboard provides actionable insights for:
 1. Hosts optimizing pricing strategy
 2. Analysts evaluating market behavior
 3. Travelers comparing location-based pricing
 4. Stakeholders studying real estate or rental trends
+
+## Summary of this Project 
+- This project showcases my ability to clean real data, uncover insights, and build interactive dashboards in Tableau that support business decision-making.
